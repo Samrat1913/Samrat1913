@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samrat1913
 - 👀 I’m interested in Cyber Security & Ethical Hacking
-- 🌱 I’m currently learning B.Tech CSE
+- 🌱 I’m currently persuing for B.Tech CSE
 - 📫 How to reach me https://t.me/Samrat1913 [My Telegram]
 
 <!---
